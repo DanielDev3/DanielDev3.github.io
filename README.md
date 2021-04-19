@@ -1,2 +1,4 @@
 # danieldev.github.io
-Website that tracks my projects and ongoing work in software and web development.
+Website that tracks my projects and ongoing work in Database and IT work
+
+
